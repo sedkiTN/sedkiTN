@@ -6,7 +6,7 @@ Senior Full Stack Developer at [Nexton Consulting](https://nexton-consulting.com
 
 * 📫 How to reach me :
   * Email : sedki_ben_ali@outlook.com
-  * [LinkedIn](https://www.linkedin.com/in/sedki-ben-ali-98a64666/)
+  * [LinkedIn](https://www.linkedin.com/in/ben-ali-sedki/)
 * 🌱 I’m currently learning everything I can find about PHP and Dart, the learning never stops!
 
 <!--
