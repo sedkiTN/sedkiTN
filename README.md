@@ -1,6 +1,13 @@
 <p align="center">
-		<img alt="Welcome Message" src="https://readme-typing-svg.herokuapp.com?size=30&background=45E5FF00&center=true&vCenter=true&lines=Hi+there!+I'm+Sedki+%F0%9F%91%8B%F0%9F%8F%BC">
+	<img alt="Welcome Message" src="https://readme-typing-svg.herokuapp.com?size=30&background=45E5FF00&center=true&vCenter=true&lines=Hi+there!+I'm+Sedki+%F0%9F%91%8B%F0%9F%8F%BC">
 </p>
+
+Senior Full Stack Developer at [Nexton Consulting](https://nexton-consulting.com/). I have more than 9 years experience with PHP Framework's, passionate about mobile development (Dart & Flutter).
+
+* 📫 How to reach me :
+  * Email : sedki_ben_ali@outlook.com
+  * [LinkedIn](https://www.linkedin.com/in/sedki-ben-ali-98a64666/)
+* 🌱 I’m currently learning everything I can find about PHP and Dart, the learning never stops!
 
 <!--
 **sedkiTN/sedkiTN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
